@@ -37,8 +37,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-special-digamma": "^0.2.1",
-    "@stdlib/math-base-special-gamma": "^0.2.1",
+    "@stdlib/math-base-special-digamma": "^0.3.0",
+    "@stdlib/math-base-special-gamma": "^0.3.0",
     "@stdlib/math-base-special-ln": "^0.2.4"
   },
   "devDependencies": {
