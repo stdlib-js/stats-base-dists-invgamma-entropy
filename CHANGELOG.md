@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-14)
+## Unreleased (2024-12-18)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`8bf8285`](https://github.com/stdlib-js/stdlib/commit/8bf8285aba0ecbd00ae145c4c5c098cd28135814) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`e9d539e`](https://github.com/stdlib-js/stdlib/commit/e9d539ed6f0185d2455a45b5e29bd50d5c556db5) - **feat:** add C implementation for `stats/base/dists/invgamma/entropy` [(#3682)](https://github.com/stdlib-js/stdlib/pull/3682) _(by Aayush Khanna, Philipp Burckhardt, stdlib-bot)_
 
 </details>
