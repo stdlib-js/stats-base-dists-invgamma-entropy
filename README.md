@@ -69,7 +69,7 @@ where `α > 0` is the shape parameter, `β > 0` is the rate parameter, `Γ` and 
 ## Usage
 
 ```javascript
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-entropy@esm/index.mjs';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-entropy@v0.3.0-esm/index.mjs';
 ```
 
 #### entropy( alpha, beta )
@@ -146,7 +146,7 @@ v = entropy( 1.0, -1.0 );
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-entropy@esm/index.mjs';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-entropy@v0.3.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
