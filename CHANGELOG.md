@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-21)
+## Unreleased (2026-09-24)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`01bd47a`](https://github.com/stdlib-js/stdlib/commit/01bd47a3bea267af6a5298a273cffd72816fdaf6) - **test:** migrate `stats/base/dists/invgamma/entropy` to ULP-based assertions [(#15478)](https://github.com/stdlib-js/stdlib/pull/15478) _(by Athan Reines)_
 -   [`a103b47`](https://github.com/stdlib-js/stdlib/commit/a103b474ac08bc97bfdeac4674230abc02d17ae5) - **docs:** fix descriptions [(#13696)](https://github.com/stdlib-js/stdlib/pull/13696) _(by Philipp Burckhardt)_
 -   [`8df3c50`](https://github.com/stdlib-js/stdlib/commit/8df3c505604130c2c0cdf20814d2126c9ef58e69) - **docs:** fix parameter descriptions and update spacing [(#13671)](https://github.com/stdlib-js/stdlib/pull/13671) _(by Philipp Burckhardt)_
 -   [`b5b7b4c`](https://github.com/stdlib-js/stdlib/commit/b5b7b4cf9937655b9167cb0145394c787f36faeb) - **refactor:** add `isnan` guards [(#13362)](https://github.com/stdlib-js/stdlib/pull/13362) _(by Philipp Burckhardt)_
@@ -28,8 +29,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Lokesh Ranjan
 -   Philipp Burckhardt
 
